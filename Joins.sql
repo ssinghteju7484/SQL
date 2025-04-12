@@ -51,6 +51,10 @@ RIGHT JOIN Marks ON Students.StudentID = Marks.StudentID;
 
 SELECT 'Full outer join' AS Message;
 -- full outer join
-SELECT Students.StudentID, Name, Subject, Marks
+SELECT Students.StudentID, Students.Name, Marks.Subject, Marks.Marks
 FROM Students
-FULL OUTER JOIN Marks ON Students.StudentID = Marks.StudentID;
+LEFT JOIN Marks ON Students.StudentID = Marks.StudentID
+UNION
+SELECT Students.StudentID, Students.Name, Marks.Subject, Marks.Marks
+FROM Students
+RIGHT JOIN Marks ON Students.StudentID = Marks.StudentID;
