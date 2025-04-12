@@ -55,3 +55,11 @@ Cross-Department Use: Similar concepts apply in HR (employees and salaries), hea
 
 # Conclusion
 This project illustrates how SQL joins are powerful tools for analyzing related data in relational databases. The use of Onecompiler makes it accessible for learning and testing, while the techniques shown are widely applicable in real-world systems. Understanding join operations is essential for students, analysts, and developers working with data.
+
+# Output
+
+![Image](https://github.com/user-attachments/assets/2e9fa805-89b9-4f07-88ff-43a630e02f98)
+
+![Image](https://github.com/user-attachments/assets/2af7b226-66dc-40d4-a094-6c811883e546)
+
+![Image](https://github.com/user-attachments/assets/f838524e-4fde-4387-a446-2b91c338fd36)
