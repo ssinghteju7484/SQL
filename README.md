@@ -20,7 +20,7 @@ This project demonstrates the use of SQL join operations—INNER JOIN, LEFT JOIN
 # Tools and Technologies Used
 SQL (Structured Query Language): The core language used to create tables, insert data, and retrieve information. SQL is the standard for managing data in relational database systems.
 
-Oracle Live SQL (Web-based Platform): The SQL code was designed to run on Oracle’s Live SQL platform, which provides an online environment to execute SQL scripts. It is a free tool provided by Oracle that requires no installation, making it ideal for practicing and learning SQL commands in real time.
+Onecompiler (Web-based Platform): The SQL code was designed to run on Onecompiler platform, which provides an online environment to execute SQL scripts. It is a free tool provided by Onecompiler that requires no installation, making it ideal for practicing and learning SQL commands in real time.
 
 # Data Model
 Two relational tables are used in this project:
@@ -54,4 +54,4 @@ ETL Processes: During data transformation and loading, joins are used to reconci
 Cross-Department Use: Similar concepts apply in HR (employees and salaries), healthcare (patients and appointments), and sales (customers and orders).
 
 # Conclusion
-This project illustrates how SQL joins are powerful tools for analyzing related data in relational databases. The use of Oracle Live SQL makes it accessible for learning and testing, while the techniques shown are widely applicable in real-world systems. Understanding join operations is essential for students, analysts, and developers working with data.
+This project illustrates how SQL joins are powerful tools for analyzing related data in relational databases. The use of Onecompiler makes it accessible for learning and testing, while the techniques shown are widely applicable in real-world systems. Understanding join operations is essential for students, analysts, and developers working with data.
